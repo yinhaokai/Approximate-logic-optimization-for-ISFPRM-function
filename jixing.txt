@@ -1,0 +1,7 @@
+
+ the best polarity is,longth is 7:
+1 1 0 0 0 0 0 
+ the P_FPRM is: 34.000000 
+
+ the P_FPRM is: 0.000000 
+function used 2.250 seconds
